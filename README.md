@@ -1,4 +1,4 @@
-# Bitti Collaboration Dock
+# Bitti Public Collaboration Dock
 
 Front-End simulations
 
